@@ -1,0 +1,55 @@
+/* Colors */
+.black {
+  color: #000000;
+}
+
+.white {
+  /* Basic White */
+  color: #FFFFFF;
+}
+
+.accent-blue {
+  /* Accent Blue */
+  color: #007AFF;
+}
+
+.accent-blue-light {
+  color: #60a9f9;
+}
+
+.basic-gray {
+  /* Basic Gray */
+  color: #C7C7CC;
+}
+
+.gray1 {
+  color: #8E8E93;
+}
+
+.gray2 {
+  color: #636366;
+}
+
+.gray3 {
+  color: #48484A;
+}
+
+.gray4 {
+  color: #3A3A3C;
+}
+
+.gray5 {
+  color: #2C2C2E;
+}
+
+.gray6 {
+  color: #1C1C1E;
+}
+
+.netflix-red {
+  color: #E50914
+}
+
+.destructive-red {
+  color: #FF453A;
+}

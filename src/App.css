@@ -1,0 +1,17 @@
+@import "./AppleDesign/index.css";
+
+.container {
+  min-height: 100vh;
+}
+.App {
+  padding: 5vh 5vw;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+  caret-color: white;
+  -webkit-text-fill-color: white;
+  -webkit-box-shadow: 0 0 0px 1000px #1c1c1e inset;
+  box-shadow: 0 0 0px 1000px #1c1c1e inset;
+}
